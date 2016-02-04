@@ -1,10 +1,10 @@
 {
     "name": "lodash.istypedarray",
-    "description": "The modern build of lodash’s `_.isTypedArray` as a module.",
+    "description": "The lodash method `_.isTypedArray` exported as a module.",
     "repos": "https://github.com/lodash/lodash.git",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
     "main": "index.js",
-    "version": "3.0.3"
+    "version": "3.0.4"
 }
